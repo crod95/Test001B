@@ -10,7 +10,7 @@ person and vice versa. Once you have collected all of the shiny orbs (there
 will be 6 of them), the door to the next area will be open. In that area, 
 collect the next the 4 floating cubes to open the final door.
 
-Assets added:
+Assets added from Assets Store:
 1)PBRMaterials
 2)Sand textures pack
 3)SandBrick1
